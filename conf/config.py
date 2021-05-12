@@ -36,11 +36,11 @@ SERVER_ID = "2357f06e72b945af813ac2f47aa110b8"
 SECRET_KEY_NAME = "private_20210503154824.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://attendance-mgmt-app.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-54-163-254-204.compute-1.amazonaws.com"
+DB_NAME = "d9t7btebubkp70"
+DB_USER = "hpdnfixdlsfbkq"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "d508b1e966999345b62c9d436a339b8a930b73138e18233019f4c5b6a2c8fcaf"
